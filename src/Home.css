@@ -1,0 +1,41 @@
+.mainDiv{
+    background-color: rgb(51, 84, 87);
+    text-align: center;
+    
+}
+.headignDiv{
+    background-color: aquamarine;
+    
+}
+.inputMain{
+    margin: 15px;
+}
+.inputDiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.listDiv{
+    list-style: none;
+
+}
+.inputFields{
+    border-radius: 10px;
+    border: 1px solid whitesmoke;
+    height: 2rem;
+    margin: 10px;
+}
+.pluseBTN{
+    background-color: green;
+    width: 50px;
+    height: 30px;
+    border: none;
+    border-radius: 10px;
+}
+.pluseBTN:hover{
+    border: 1px solid lightgreen;
+}
+*{
+    margin: 0;
+}
